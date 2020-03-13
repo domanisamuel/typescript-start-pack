@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "strict": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "outDir": "build",
+        
+  },
+  // "exclude": [
+  //     "node_modules",
+  //     "**/*.spec.ts",
+  //     "**/*.test.ts",
+  //     "./src/**/__tests__/*.ts"
+  // ],
+  // "include": [
+  //     "src/**/*.ts"
+  // ]
+}
